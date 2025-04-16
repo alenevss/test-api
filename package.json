@@ -1,0 +1,24 @@
+{
+  "name": "teste-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "test:gui": "cypress open"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenevss/test-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alenevss/test-api/issues"
+  },
+  "homepage": "https://github.com/alenevss/test-api#readme",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.3.0"
+  }
+}
